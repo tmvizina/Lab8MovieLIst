@@ -1,0 +1,13 @@
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\bin\Debug\netcoreapp3.1\Lab8MovieList.exe
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\bin\Debug\netcoreapp3.1\Lab8MovieList.deps.json
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\bin\Debug\netcoreapp3.1\Lab8MovieList.runtimeconfig.json
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\bin\Debug\netcoreapp3.1\Lab8MovieList.runtimeconfig.dev.json
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\bin\Debug\netcoreapp3.1\Lab8MovieList.dll
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\bin\Debug\netcoreapp3.1\Lab8MovieList.pdb
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\obj\Debug\netcoreapp3.1\Lab8MovieList.csprojAssemblyReference.cache
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\obj\Debug\netcoreapp3.1\Lab8MovieList.AssemblyInfoInputs.cache
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\obj\Debug\netcoreapp3.1\Lab8MovieList.AssemblyInfo.cs
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\obj\Debug\netcoreapp3.1\Lab8MovieList.csproj.CoreCompileInputs.cache
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\obj\Debug\netcoreapp3.1\Lab8MovieList.dll
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\obj\Debug\netcoreapp3.1\Lab8MovieList.pdb
+C:\Users\tmviz\source\repos\Lab8MovieList\Lab8MovieList\obj\Debug\netcoreapp3.1\Lab8MovieList.genruntimeconfig.cache
